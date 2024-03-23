@@ -1,3 +1,4 @@
+![Photo](https://github.com/GoodGuySavitar/GoodGuySavitar/blob/main/Images/PASSPORT%20PHOTO.jpeg) 
 <h1 align="center">Hi 👋, I'm Asmit Singh Chauhan</h1>
 <h3 align="center">An aspiring game developer from India</h3>
 
