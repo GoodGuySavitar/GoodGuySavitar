@@ -1,4 +1,3 @@
- <img  src="C:\Github Projects\GoodGuySavitar\Passport Photo-69KB - Copy.jpeg">
 <h1 align="center">Hi 👋, I'm Asmit Singh Chauhan</h1>
 <h3 align="center">An aspiring game developer from India</h3>
 
