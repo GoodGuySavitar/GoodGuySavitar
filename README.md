@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Asmit Singh Chauhan</h1>
-<h3 align="center">An aspiring game developer from India</h3>
 
 - 🌱 I’m currently learning **Unity**
 
