@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asmit Singh Chauhan</h1>
-- 📫 How to reach me **blr.asmit@gmail.com**
+- 📫 How to reach me <a href="mailto:blr.asmit@gmail.com">blr.asmit@gmail.com</a>
 
 - 📄[Resume](https://drive.google.com/file/d/1PcDz_86G-9tp9M--V9YyjMsRU9Ck6lNL/view?usp=sharing)
 
